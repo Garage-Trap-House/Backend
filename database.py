@@ -9,7 +9,7 @@ firebase_admin.initialize_app(cred)
 db = firestore.client()
 
 data = {
-    u'name': u'Pomona',
+    u'name': u'Los Angeles ',
     u'state': u'CA',
     u'country': u'USA'
 }
